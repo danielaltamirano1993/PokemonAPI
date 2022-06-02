@@ -1,0 +1,1 @@
+alert("js upload succesfuly");
